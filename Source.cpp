@@ -1,7 +1,4 @@
-//Name: Jarly Williams
-//Course: CIS 3110
-//Date: 11/30/16
-//Homework #5
+//Name: Jaryl Williams
 //Purpose: simulate banking transactions
 
 #include <iostream>
